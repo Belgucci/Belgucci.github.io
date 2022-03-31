@@ -9,3 +9,8 @@ p {
     font-style: italic;
 
 }
+nav {
+    position: absolute;
+    left: 400px;
+    bottom: 400px;
+}

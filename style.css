@@ -2,5 +2,10 @@ h1 {
     color: white;
     font-style: italic;
     position: absolute;
-    left: 150px;
+    left: 135px;
+}
+
+p {
+    font-style: italic;
+
 }
